@@ -1,17 +1,19 @@
 <h1 align="center">Oi 👋, eu sou o Luiz Nelson!</h1>
 <h3 align="center">Apaixonado por ciência, tecnologia e análise de dados</h3>
 
+<p align="center"><strong>🎓 Mestrando em Sistemas de Informação (UFPI)</strong></p>
+
 <p align="center">
   <a href="https://luizznelson.github.io" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Online-blue?style=flat-square" alt="Portfólio"></a>
   <a href="mailto:luizznelson.lima@gmail.com"><img src="https://img.shields.io/badge/E--mail-luizznelson.lima@gmail.com-red?style=flat-square" alt="E-mail"></a>
-  <a href="https://linkedin.com/in/luizznelson" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Luiz%20Nelson-blue?style=flat-square" alt="LinkedIn"></a>
 </p>
 
 ---
 
-🎓 **Graduando em Sistemas de Informação** pela UFPI (Universidade Federal do Piauí), com previsão de conclusão em 12/2025.  
-💼 **Experiência em laboratório de pesquisa (PASID/UFPI)**, atuando em coleta, processamento e análise de dados, automação em Python e aplicação de inteligência artificial para otimização de sistemas distribuídos.  
-🚀 **Interesses:** Ciência de dados, IA, automação, visualização e engenharia de dados.
+🎓 **Mestrando e graduando em Sistemas de Informação** pela UFPI, com conclusão da graduação prevista para dezembro de 2025. Desenvolve projetos de pesquisa aplicada com foco em dados, IA e sistemas distribuídos. 
+💼 Experiência prática em análise de dados, automação em Python e uso de modelos de machine learning em aplicações reais.  
+🚀 **Interesses:** Ciência de dados, inteligência artificial, automação e engenharia de dados.
+
 
 ---
 
