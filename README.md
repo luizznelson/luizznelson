@@ -43,6 +43,7 @@ Diagnóstico automático de atrasos, sumarização de reclamações com IA e ger
 Pipeline de predição de cancelamento sobre o dataset Telco Customer Churn (Kaggle, 7.043 clientes reais).
 Modelo Random Forest com AUC-ROC 0.834, relatório executivo gerado por IA e assistente de retenção integrado.
 
+[![Demo ao vivo](https://img.shields.io/badge/Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)]([https://ops-radar-b2kguj4mcnpgq78ybvsdxk.streamlit.app/](https://churn-prediction-kw68vghhsd95yci7ppu5cj.streamlit.app/))
 `Python` `Scikit-learn` `Streamlit` `Groq` `Random Forest`
 
 ---
