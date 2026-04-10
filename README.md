@@ -20,9 +20,10 @@
 
 Trabalho com dados para transformar complexidade operacional em clareza — e clareza em decisão.
 
-Desenvolvo automações e pipelines que conectam dados, sistemas e processos usando Python e ferramentas de IA aplicadas ao contexto real do problema. Mestrando em Ciência da Computação na UFPI, com pesquisa em sistemas distribuídos e mais de 15 publicações científicas.
+Desenvolvo automações e pipelines que conectam dados, sistemas e processos usando Python e ferramentas de IA aplicadas ao contexto real do problema. Mestrando em Ciência da Computação na UFPI, com pesquisa em sistemas
+distribuídos e mais de 15 publicações científicas. Certificado em Lean Six Sigma — visão de processo aplicada ao trabalho com dados e automação.
 
-Atualmente: **Analista de Inovação e Inteligência** na VirteX Telecom · **Sócio-Fundador e COO** na DataBrain Studio.
+Atualmente: **Analista de Inovação e Inteligência** no setor de Processos e Qualidade na VirteX Telecom · **Sócio-Fundador e COO** na DataBrain Studio.
 
 ---
 
@@ -50,7 +51,8 @@ Modelo Random Forest com AUC-ROC 0.834, relatório executivo gerado por IA e ass
 
 ## Stack
 
-`Python` `Pandas` `Scikit-learn` `Streamlit` `SQL` `Power BI` `Docker` `Git` `LangChain` `Groq`
+`Python` `Pandas` `Scikit-learn` `Streamlit` `SQL` `Power BI`
+`Docker` `Hugging Face` `LangChain` `Gemini` `Groq` `Claude` `Git` `Lean Six Sigma` `Excel`
 
 ---
 
