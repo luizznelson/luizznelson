@@ -23,7 +23,7 @@ Desenvolvo automações e pipelines que conectam dados, sistemas e processos, ut
 Sou mestrando em Ciência da Computação pela UFPI, com pesquisa em sistemas distribuídos e mais de 15 publicações científicas, o que reforça meu rigor analítico e abordagem orientada à compreensão profunda do problema.
 Possuo certificação Lean Six Sigma, aplicando visão de processos na análise de dados, identificação de gargalos e melhoria contínua das operações.
 
-Atualmente: **Analista de Inovação e Inteligência** no setor de Processos e Qualidade na VirteX Telecom · **Sócio-Fundador e COO** na DataBrain Studio.
+Atualmente: **Analista de Inovação e Inteligência** no setor de Processos e Qualidade na VirteX Telecom.
 
 ---
 
