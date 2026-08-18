@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  Transformo processos, dados e tecnologia em soluções que automatizam operações,<br>
-  geram inteligência e apoiam decisões.
+  Construo soluções que combinam automação, dados e IA para melhorar processos e apoiar decisões operacionais.
 </p>
 
 <p align="center">
