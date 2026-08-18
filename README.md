@@ -1,11 +1,16 @@
 <h1 align="center">Luiz Nelson dos Santos Lima</h1>
 
 <p align="center">
-  <strong>Inovação & Inteligência · Automação de Processos · Dados & Analytics · IA Aplicada</strong>
+  <strong>Analista de Automação & Inteligência de Processos</strong>
 </p>
 
 <p align="center">
-  Construo soluções que combinam automação, dados e IA para melhorar processos e apoiar decisões operacionais.
+  Dados & Analytics · IA Aplicada · Automação de Processos
+</p>
+
+<p align="center">
+  Diagnostico problemas operacionais e construo soluções com dados, automação e IA<br>
+  para tornar processos mais eficientes, mensuráveis e inteligentes.
 </p>
 
 <p align="center">
@@ -24,87 +29,99 @@
 
 ## Sobre mim
 
-Atuo na área de **Inovação e Inteligência**, conectando **processos, dados e tecnologia** para resolver problemas operacionais, automatizar atividades e transformar informações em suporte à decisão.
+Atuo na interseção entre **processos, dados e tecnologia**, buscando entender como uma operação funciona, identificar gargalos e estruturar soluções que melhorem sua eficiência e capacidade de decisão.
 
-Minha atuação se concentra em três pilares:
+Minha atuação não começa pela ferramenta. Primeiro busco entender:
 
-- **Automação de Processos** — análise e redesenho de fluxos, integração entre sistemas e redução de atividades manuais e repetitivas.
-- **Dados & Analytics** — tratamento, integração e análise de dados, desenvolvimento de indicadores e dashboards para acompanhamento de desempenho.
-- **IA Aplicada** — utilização de LLMs, Machine Learning e automações inteligentes para aumentar eficiência, análise e acesso à informação.
+- como o processo funciona de ponta a ponta;
+- quem são os responsáveis e quais são as regras;
+- quais dados explicam seu desempenho;
+- onde estão os gargalos, retrabalhos ou atividades manuais;
+- qual intervenção realmente faz sentido.
 
-Tenho experiência com **Python, SQL, Power BI, APIs REST, n8n, LLMs e LangChain**, além de levantamento de requisitos, BPMN, regras de negócio, homologação e análise dos resultados das soluções implantadas.
-
-Minha abordagem parte do problema, não da ferramenta:
+A partir desse diagnóstico, trabalho com **automação, integração de sistemas, dados, analytics e IA aplicada** para construir a solução.
 
 <p align="center">
-  <strong>Processo → Dados → Automação → Inteligência → Decisão → Resultado</strong>
+  <strong>Problema → Diagnóstico → Dados → Solução → Implementação → Medição</strong>
 </p>
 
-Atualmente curso **Mestrado em Ciência da Computação na Universidade Federal do Piauí (UFPI)** e atuo em pesquisa aplicada envolvendo sistemas distribuídos, IoT, redes de sensores e avaliação de desempenho.
+Tenho experiência com **Python, SQL, Power BI, APIs REST, n8n, LLMs e LangChain**, além de levantamento de requisitos, BPMN, análise de viabilidade, homologação e acompanhamento dos resultados das soluções implantadas.
+
+Atualmente curso **Mestrado em Ciência da Computação na Universidade Federal do Piauí (UFPI)** e também atuo em pesquisa aplicada.
 
 ---
 
-## Expertise
+## O que eu faço
 
-### ⚙️ Automação de Processos
+### ⚙️ Automação & Inteligência de Processos
 
-`Python` `REST APIs` `JSON` `n8n` `OAuth` `BPMN` `Workflow Automation`
+Analiso processos operacionais para identificar gargalos, oportunidades de melhoria e possibilidades de automação.
 
-Atuação desde o entendimento do processo até a implantação e acompanhamento da solução:
+`Python` `REST APIs` `JSON` `n8n` `OAuth` `BPMN`
+
+Atuação envolvendo:
+
+- mapeamento de processos AS-IS / TO-BE;
+- levantamento de requisitos;
+- identificação de gargalos e retrabalho;
+- definição de regras de negócio;
+- critérios de aceite;
+- integração entre sistemas;
+- automação de atividades manuais;
+- análise de viabilidade técnica e financeira;
+- testes e homologação;
+- mensuração dos resultados.
 
 <p align="center">
-  <strong>AS-IS → Gargalos → TO-BE → Requisitos → Automação → Homologação → Resultados</strong>
+  <strong>AS-IS → Diagnóstico → TO-BE → Solução → Implementação → Resultado</strong>
 </p>
-
-Experiência com:
-
-- automação de processos operacionais e back office;
-- integração entre sistemas;
-- desenvolvimento de scripts em Python;
-- APIs REST/JSON;
-- workflows automatizados com n8n;
-- levantamento de requisitos;
-- BPMN AS-IS / TO-BE;
-- regras de negócio e critérios de aceite;
-- homologação de soluções;
-- análise de viabilidade técnica e financeira.
 
 ---
 
 ### 📊 Dados & Analytics
 
-`Python` `Pandas` `SQL` `Power BI` `Power Query` `DAX` `Excel`
+Uso dados para entender como processos e operações estão funcionando e transformar informações brutas em indicadores úteis para tomada de decisão.
 
-Uso dados para transformar operações em informações mensuráveis e úteis para tomada de decisão.
+`Python` `Pandas` `SQL` `Power BI` `Power Query` `DAX` `Excel`
 
 Experiência com:
 
-- tratamento e limpeza de dados;
-- integração de diferentes fontes;
+- extração e tratamento de dados;
+- consultas SQL;
+- limpeza e transformação;
 - análise exploratória;
-- construção de KPIs;
+- criação de métricas e KPIs;
 - dashboards gerenciais;
 - indicadores de SLA, produtividade e qualidade;
+- análise de tendências;
+- comparação entre grupos;
 - análise estatística;
-- visualização e comunicação de resultados.
+- identificação de anomalias;
+- comunicação de resultados.
 
 ---
 
-### 🧠 Inteligência Artificial Aplicada
+### 🧠 IA Aplicada
 
-`LLMs` `LangChain` `Prompt Engineering` `Scikit-learn` `Hugging Face` `Gemini` `Groq`
+Utilizo IA quando o problema exige interpretação, contexto ou análise de informações que não são facilmente tratadas apenas com regras determinísticas.
 
-Meu foco em IA está na **aplicação prática em processos, produtos e operações**.
+`LLMs` `LangChain` `LangGraph` `Prompt Engineering` `Scikit-learn` `Gemini` `Groq`
 
 Experiência com:
 
-- automação operacional utilizando IA;
-- aplicações baseadas em LLMs;
-- soluções conversacionais com LangChain;
-- integração de modelos via APIs;
-- Prompt Engineering;
-- Machine Learning aplicado;
-- geração e estruturação de informações para apoio operacional.
+- automações utilizando LLMs;
+- prompts estruturados;
+- integração de modelos via API;
+- aplicações com LangChain;
+- fundamentos e aplicações com LangGraph;
+- RAG;
+- extração e sumarização de informações;
+- classificação;
+- soluções conversacionais;
+- avaliação de respostas;
+- Machine Learning aplicado.
+
+Busco combinar **regras determinísticas e IA** de acordo com o problema, evitando aplicar modelos onde uma solução convencional é mais simples, previsível ou segura.
 
 ---
 
@@ -115,7 +132,7 @@ Experiência com:
 **Analista de Inovação e Inteligência — Processos & Qualidade**  
 `06/2025 – 06/2026`
 
-Atuação conectando **processos, dados e tecnologia** para identificar oportunidades de melhoria e desenvolver soluções internas.
+Atuação em iniciativas que conectavam **processos, dados e tecnologia**, desde o diagnóstico do problema até a implementação e acompanhamento da solução.
 
 Principais entregas:
 
@@ -124,14 +141,18 @@ Principais entregas:
 - **ROI superior a 1.000% no primeiro ano**;
 - desenvolvimento de scripts e automações em Python;
 - integração entre sistemas utilizando APIs REST/JSON;
-- construção de dashboards e indicadores em Power BI;
+- consultas SQL para extração e análise de informações;
+- construção de relatórios e dashboards em Power BI;
 - tratamento de dados com Power Query, M e DAX;
+- desenvolvimento de planilhas automatizadas em Excel;
+- acompanhamento de indicadores de conformidade, produtividade e performance;
+- análise e tratamento de não conformidades;
 - levantamento de requisitos junto às áreas de negócio;
-- modelagem de processos em BPMN AS-IS / TO-BE;
+- modelagem de processos BPMN AS-IS / TO-BE;
 - definição de regras de negócio e critérios de aceite;
 - análise de viabilidade técnica e financeira;
 - testes, homologação e acompanhamento pós-implantação;
-- desenvolvimento de solução conversacional corporativa baseada em **LLM + LangChain**.
+- desenvolvimento de solução conversacional corporativa baseada em **LLM + LangChain** para consulta de informações sobre processos internos.
 
 ---
 
@@ -139,11 +160,11 @@ Principais entregas:
 
 ### ⚙️ [Industrial Hydraulic DataOps](https://github.com/luizznelson/industrial-hydraulic-dataops)
 
-**Da telemetria bruta à inteligência sobre o processo**
+**Da telemetria bruta à informação analítica**
 
-Pipeline de dados desenvolvido sobre medições experimentais reais de um sistema hidráulico, contendo **2.205 ciclos operacionais** e sensores com diferentes frequências de aquisição.
+Pipeline desenvolvido sobre dados experimentais reais de um sistema hidráulico, contendo **2.205 ciclos operacionais** e sensores com diferentes frequências de aquisição.
 
-O desafio é transformar sinais brutos de **pressão, potência, vazão, temperatura e vibração** em informações estruturadas, confiáveis e comparáveis para análise.
+O desafio é transformar sinais brutos de **pressão, potência, vazão, temperatura e vibração** em dados estruturados, validados e comparáveis para análise.
 
 <p align="center">
   <strong>Sensores → Ingestão → Data Quality → Transformação → Feature Engineering → SQL → Analytics → Dashboard</strong>
@@ -176,33 +197,31 @@ O projeto contempla:
 
 ---
 
-## Tech Stack
+## Stack técnica
 
 ### Automação & Integração
 
-`Python` `REST APIs` `JSON` `n8n` `OAuth` `BPMN`
+`Python` `REST APIs` `JSON` `n8n` `OAuth`
 
 ### Dados & Analytics
 
 `Python` `Pandas` `SQL` `Power BI` `Power Query` `DAX` `Excel`
 
-### Inteligência Artificial
+### IA Aplicada
 
-`LangChain` `LLMs` `Prompt Engineering` `Scikit-learn` `Hugging Face` `Gemini` `Groq`
+`LangChain` `LangGraph` `LLMs` `RAG` `Prompt Engineering` `Scikit-learn` `Gemini` `Groq`
 
-### Data Engineering
+### Engenharia & DataOps
 
-`ETL` `SQL` `Airflow` `PostgreSQL` `SQLite` `Docker`
+`ETL` `Airflow` `PostgreSQL` `SQLite` `Docker` `Git` `FastAPI` `CI/CD` `Pytest`
 
-### Engenharia de Software
+### Processos
 
-`Git` `Docker` `FastAPI` `CI/CD` `Streamlit` `Pytest`
+`BPMN` `AS-IS / TO-BE` `Requirements Analysis` `Business Rules` `Acceptance Criteria`
 
-### Estatística & Modelagem
+### Estatística
 
 `Correlação` `Regressão Linear` `ANOVA` `Delineamento de Experimentos`
-
-Experiência acadêmica e docente com análise estatística, interpretação de resultados e delineamento experimental.
 
 ---
 
@@ -213,23 +232,27 @@ Experiência acadêmica e docente com análise estatística, interpretação de 
 **Universidade Federal do Piauí — UFPI**  
 `2025 – 2028`
 
+---
+
 ### Bacharelado em Sistemas de Informação
 
 **Universidade Federal do Piauí — UFPI**  
 `2020 – 2025`
+
+---
 
 ### Estágio em Docência — Estatística
 
 **Universidade Federal do Piauí — UFPI**  
 `2026`
 
-Atuação no ensino de Estatística para o curso de Sistemas de Informação, com foco em:
+Experiência no ensino de Estatística para Sistemas de Informação, incluindo:
 
-- Correlação;
-- Regressão Linear;
-- ANOVA;
-- Delineamento de Experimentos;
-- interpretação e comunicação de resultados estatísticos.
+`Correlação` `Regressão Linear` `ANOVA` `Delineamento de Experimentos`
+
+Com ênfase em interpretação, análise e comunicação de resultados estatísticos.
+
+---
 
 ### Pesquisador — PASID/UFPI
 
@@ -248,18 +271,30 @@ Pesquisa aplicada envolvendo:
 
 **20+ publicações científicas Qualis A1/A2/A3/A4**, incluindo trabalhos internacionais.
 
+---
+
 ## Como eu trabalho
 
+Meu maior interesse está em problemas onde a solução ainda não está completamente definida.
+
+Gosto de entender o contexto, investigar causas, estruturar alternativas e então decidir quais mecanismos técnicos fazem sentido.
+
 <p align="center">
-  <strong>Entender o problema → Mapear processos e dados → Identificar oportunidades → Construir → Automatizar → Medir → Melhorar</strong>
+  <strong>
+    Entender → Diagnosticar → Arquitetar → Construir → Medir → Melhorar
+  </strong>
 </p>
 
-Meu foco é conectar **processos, dados e tecnologia** para desenvolver soluções que não terminem no código, mas gerem **eficiência, inteligência e impacto mensurável**.
+Meu objetivo é desenvolver soluções que não terminem no código, mas produzam **melhoria operacional, informação para decisão e impacto mensurável**.
 
 ---
 
 <p align="center">
-  <strong>Inovação & Inteligência · Automação de Processos · Dados & Analytics · IA Aplicada</strong>
+  <strong>Analista de Automação & Inteligência de Processos</strong>
+</p>
+
+<p align="center">
+  Automação · Dados & Analytics · IA Aplicada
 </p>
 
 <p align="center">
