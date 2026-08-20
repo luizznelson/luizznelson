@@ -1,11 +1,9 @@
 <h1 align="center">Luiz Nelson dos Santos Lima</h1>
 
-<p align="center">
-  <strong>Analista de Automação & Inteligência de Processos</strong>
-</p>
+<h3 align="center">Analista de Automação & Inteligência de Processos</h3>
 
 <p align="center">
-  Dados & Analytics · IA Aplicada · Automação de Processos
+  <strong>Dados & Analytics · IA Aplicada · Automação de Processos</strong>
 </p>
 
 <p align="center">
@@ -15,17 +13,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiznelson">
-    <img src="https://img.shields.io/badge/LinkedIn-luiznelson-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-luiznelson-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:luizznelsonpro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://luizznelson.github.io">
-    <img src="https://img.shields.io/badge/Portfólio-Web-181717?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfólio-Web-181717?style=flat-square&logo=github&logoColor=white" alt="Portfólio">
   </a>
 </p>
 
-Sobre mim
+<br>
+
+<h2>👋 Sobre mim</h2>
 
 Atuo na interseção entre processos, dados e tecnologia, buscando entender como uma operação funciona, identificar gargalos e estruturar soluções que melhorem sua eficiência e capacidade de decisão.
 
@@ -51,15 +51,17 @@ Tenho experiência com Python, SQL, Power BI, APIs REST, n8n, LLMs e LangChain, 
 
 Atualmente curso Mestrado em Ciência da Computação na Universidade Federal do Piauí (UFPI) e também atuo em pesquisa aplicada.
 
-O que eu faço
+<br>
 
-⚙️ Automação & Inteligência de Processos
+<h2>🧭 Áreas de atuação</h2>
+
+<h3>⚙️ Automação & Inteligência de Processos</h3>
 
 Analiso processos operacionais para identificar gargalos, oportunidades de melhoria e possibilidades de automação.
 
 Python REST APIs JSON n8n OAuth BPMN
 
-Atuação envolvendo:
+Atuação
 
 mapeamento de processos AS-IS / TO-BE;
 
@@ -67,9 +69,7 @@ levantamento de requisitos;
 
 identificação de gargalos e retrabalho;
 
-definição de regras de negócio;
-
-critérios de aceite;
+definição de regras de negócio e critérios de aceite;
 
 integração entre sistemas;
 
@@ -77,53 +77,41 @@ automação de atividades manuais;
 
 análise de viabilidade técnica e financeira;
 
-testes e homologação;
-
-mensuração dos resultados.
+testes, homologação e mensuração de resultados.
 
 <p align="center">
   <strong>AS-IS → Diagnóstico → TO-BE → Solução → Implementação → Resultado</strong>
 </p>
 
-📊 Dados & Analytics
+<h3>📊 Dados & Analytics</h3>
 
 Uso dados para entender como processos e operações estão funcionando e transformar informações brutas em indicadores úteis para tomada de decisão.
 
 Python Pandas SQL Power BI Power Query DAX Excel
 
-Experiência com:
+Experiência
 
-extração e tratamento de dados;
+extração, limpeza e transformação de dados;
 
-consultas SQL;
+consultas SQL e análise exploratória;
 
-limpeza e transformação;
-
-análise exploratória;
-
-criação de métricas e KPIs;
-
-dashboards gerenciais;
+criação de métricas, KPIs e dashboards gerenciais;
 
 indicadores de SLA, produtividade e qualidade;
 
-análise de tendências;
+análise de tendências e comparação entre grupos;
 
-comparação entre grupos;
+análise estatística e identificação de comportamentos incomuns;
 
-análise estatística;
+comunicação de resultados para apoio à decisão.
 
-identificação de anomalias;
-
-comunicação de resultados.
-
-🧠 IA Aplicada
+<h3>🧠 IA Aplicada</h3>
 
 Utilizo IA quando o problema exige interpretação, contexto ou análise de informações que não são facilmente tratadas apenas com regras determinísticas.
 
 LLMs LangChain Prompt Engineering Scikit-learn Gemini Groq
 
-Experiência com:
+Experiência
 
 automações utilizando LLMs;
 
@@ -135,9 +123,7 @@ aplicações com LangChain;
 
 RAG;
 
-extração e sumarização de informações;
-
-classificação;
+extração, classificação e sumarização de informações;
 
 soluções conversacionais;
 
@@ -147,68 +133,46 @@ Machine Learning aplicado.
 
 Busco combinar regras determinísticas e IA de acordo com o problema, evitando aplicar modelos onde uma solução convencional é mais simples, previsível ou segura.
 
-Experiência em Inovação & Inteligência
+<br>
 
-VirteX Telecom
+<h2>🚀 Projetos em destaque</h2>
 
-Analista de Inovação e Inteligência — Processos & Qualidade
-06/2025 – 06/2026
+<p>
+  Dois projetos de portfólio construídos para demonstrar a resolução de problemas de ponta a ponta — do diagnóstico e engenharia dos dados até analytics, interface e operação.
+</p>
 
-Atuação em iniciativas que conectavam processos, dados e tecnologia, desde o diagnóstico do problema até a implementação e acompanhamento da solução.
+<br>
 
-Principais entregas:
+<h2 align="center">📊 Competitive Intelligence Agent</h2>
 
-desenvolvimento de solução com IA para automatizar processo com aproximadamente 3.000 protocolos por mês;
+<p align="center">
+  <strong>Da coleta de preços públicos à inteligência competitiva</strong>
+</p>
 
-redução do tempo operacional de aproximadamente 12 minutos para 1 minuto por protocolo;
+<p align="center">
+  <a href="https://github.com/luizznelson/competitive-intelligence-agent">
+    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://competitive-intelligence-agent.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live Demo">
+  </a>
+</p>
 
-ROI superior a 1.000% no primeiro ano;
+Problema
 
-desenvolvimento de scripts e automações em Python;
+Substituir o monitoramento manual de concorrentes por uma rotina estruturada, rastreável e orientada por dados, capaz de indicar quais produtos e fontes apresentam sinais competitivos que merecem investigação.
 
-integração entre sistemas utilizando APIs REST/JSON;
+Solução
 
-consultas SQL para extração e análise de informações;
-
-construção de relatórios e dashboards em Power BI;
-
-tratamento de dados com Power Query, M e DAX;
-
-desenvolvimento de planilhas automatizadas em Excel;
-
-acompanhamento de indicadores de conformidade, produtividade e performance;
-
-análise e tratamento de não conformidades;
-
-levantamento de requisitos junto às áreas de negócio;
-
-modelagem de processos BPMN AS-IS / TO-BE;
-
-definição de regras de negócio e critérios de aceite;
-
-análise de viabilidade técnica e financeira;
-
-testes, homologação e acompanhamento pós-implantação;
-
-desenvolvimento de solução conversacional corporativa baseada em LLM + LangChain para consulta de informações sobre processos internos.
-
-Projetos em destaque
-
-📊 Competitive Intelligence Agent
-
-Da coleta de preços públicos à inteligência competitiva
-
-Sistema de inteligência competitiva desenvolvido para substituir o monitoramento manual de concorrentes por uma rotina estruturada, rastreável e orientada por dados.
-
-O projeto monitora produtos equivalentes em KaBuM!, Pichau e TerabyteShop, registra preço e disponibilidade, mantém histórico real e transforma observações públicas em sinais comparáveis de mercado.
+Sistema de inteligência competitiva que monitora produtos equivalentes em KaBuM!, Pichau e TerabyteShop, registra preço e disponibilidade, preserva histórico real e transforma as observações públicas em indicadores comparáveis de mercado.
 
 <p align="center">
   <strong>Discovery → Matching → Coleta → Validação → Histórico → Analytics → MCP → AI Analyst</strong>
 </p>
 
-O projeto contempla:
+Escala e entregas
 
-catálogo com 100 produtos canônicos;
+100 produtos canônicos;
 
 225 ofertas ativas distribuídas entre três fontes principais;
 
@@ -218,11 +182,11 @@ matching por MPN, modelo e identidade canônica;
 
 coleta HTTP com retry, backoff e fallback via Playwright;
 
-separação entre falha de coleta, indisponibilidade e oferta disponível;
+distinção entre falha de coleta, indisponibilidade e oferta disponível;
 
 histórico real de preço e disponibilidade;
 
-analytics determinístico para menor preço, mediana, dispersão, disponibilidade e movimentos;
+analytics determinístico para preço, mediana, dispersão, disponibilidade e movimentos;
 
 dashboard executivo em Streamlit;
 
@@ -232,52 +196,60 @@ Analista de IA utilizando Groq;
 
 snapshot SQLite real para demonstração pública somente leitura;
 
-testes automatizados com Pytest;
+testes automatizados com Pytest e ambiente Docker.
 
-containerização com Docker.
+Decisão de arquitetura: o LLM não calcula preços, disponibilidade ou dispersão. Esses indicadores são calculados deterministicamente e a IA atua como camada de investigação e síntese.
 
-A IA atua como uma camada de investigação e síntese. Os indicadores de preço, disponibilidade e dispersão são calculados deterministicamente antes de serem disponibilizados ao modelo.
-
-<p>
-  <a href="https://github.com/luizznelson/competitive-intelligence-agent">
-    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="https://competitive-intelligence-agent.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-  </a>
-</p>
+Stack
 
 Python Pandas PostgreSQL SQLite Requests Playwright Streamlit Plotly MCP Groq Docker Pytest
 
-⚙️ Industrial Hydraulic DataOps
+<br>
 
-Da telemetria bruta à informação analítica
-
-Pipeline desenvolvido sobre dados experimentais reais de um sistema hidráulico, contendo 2.205 ciclos operacionais e sensores com diferentes frequências de aquisição.
-
-O desafio é transformar sinais brutos de pressão, potência, vazão, temperatura e vibração em dados estruturados, validados e comparáveis para análise.
+<h2 align="center">⚙️ Industrial Hydraulic DataOps</h2>
 
 <p align="center">
-  <strong>Sensores → Ingestão → Data Quality → Transformação → Feature Engineering → SQL → Analytics → Dashboard</strong>
+  <strong>Da telemetria bruta à informação analítica</strong>
 </p>
 
-O projeto contempla:
+<p align="center">
+  <a href="https://github.com/luizznelson/industrial-hydraulic-dataops">
+    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://industrial-hydraulic-dataops.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live Demo">
+  </a>
+</p>
 
-ingestão e organização de dados;
+Problema
 
-processamento com Python e Pandas;
+Transformar sinais industriais de pressão, potência, vazão, temperatura e vibração, coletados em frequências diferentes, em dados estruturados, validados e comparáveis para análise operacional.
 
-validação de Data Quality;
+Solução
 
-tratamento de diferentes granularidades de sensores;
+Pipeline desenvolvido sobre dados experimentais reais de um sistema hidráulico, contendo 2.205 ciclos operacionais, que usa o ciclo de 60 segundos como unidade comum para harmonizar sinais adquiridos a 100 Hz, 10 Hz e 1 Hz.
+
+<p align="center">
+  <strong>Sensores → Ingestão → Data Quality → Harmonização → Feature Engineering → SQL → Analytics → Dashboard</strong>
+</p>
+
+Escala e entregas
 
 processamento de 12 sensores em três frequências de aquisição;
 
 processamento de mais de 30 milhões de medições brutas;
 
+ingestão e organização dos dados;
+
+validação de Data Quality;
+
+harmonização de diferentes granularidades de sensores;
+
 feature engineering por ciclo operacional;
 
 persistência em SQLite;
+
+rastreabilidade das execuções do pipeline;
 
 análise exploratória e estatística;
 
@@ -289,18 +261,56 @@ testes automatizados com Pytest;
 
 containerização com Docker.
 
-<p>
-  <a href="https://github.com/luizznelson/industrial-hydraulic-dataops">
-    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="https://industrial-hydraulic-dataops.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-  </a>
-</p>
+Decisão de arquitetura: a transformação utiliza o ciclo operacional como denominador comum, evitando inventar uma frequência artificial para tornar sensores heterogêneos comparáveis.
+
+Stack
 
 Python Pandas NumPy SQL SQLite Streamlit Plotly Docker Pytest
 
-Stack técnica
+<br>
+
+<h2>💼 Experiência em Inovação & Inteligência</h2>
+
+<h3>VirteX Telecom</h3>
+
+Analista de Inovação e Inteligência — Processos & Qualidade
+06/2025 – 06/2026
+
+Atuação em iniciativas que conectavam processos, dados e tecnologia, desde o diagnóstico do problema até a implementação e acompanhamento da solução.
+
+Principais resultados
+
+solução com IA aplicada a um processo com aproximadamente 3.000 protocolos por mês;
+
+redução do tempo operacional de aproximadamente 12 minutos para 1 minuto por protocolo;
+
+ROI superior a 1.000% no primeiro ano;
+
+desenvolvimento de scripts e automações em Python;
+
+integração entre sistemas utilizando APIs REST/JSON;
+
+consultas SQL para extração e análise de informações;
+
+relatórios e dashboards em Power BI;
+
+tratamento de dados com Power Query, M e DAX;
+
+acompanhamento de indicadores de conformidade, produtividade e performance;
+
+levantamento de requisitos e modelagem BPMN AS-IS / TO-BE;
+
+definição de regras de negócio e critérios de aceite;
+
+análise de viabilidade técnica e financeira;
+
+testes, homologação e acompanhamento pós-implantação;
+
+solução conversacional corporativa baseada em LLM + LangChain para consulta de informações sobre processos internos.
+
+<br>
+
+<h2>🛠️ Stack técnica</h2>
 
 Automação & Integração
 
@@ -326,19 +336,25 @@ Estatística
 
 Correlação Regressão Linear ANOVA Delineamento de Experimentos
 
-Formação, Docência & Pesquisa
+<br>
 
-Mestrado em Ciência da Computação — Sistemas Distribuídos
+<h2>🎓 Formação, Docência & Pesquisa</h2>
+
+<h3>Mestrado em Ciência da Computação — Sistemas Distribuídos</h3>
 
 Universidade Federal do Piauí — UFPI
 2025 – 2028
 
-Bacharelado em Sistemas de Informação
+<br>
+
+<h3>Bacharelado em Sistemas de Informação</h3>
 
 Universidade Federal do Piauí — UFPI
 2020 – 2025
 
-Estágio em Docência — Estatística
+<br>
+
+<h3>Estágio em Docência — Estatística</h3>
 
 Universidade Federal do Piauí — UFPI
 2026
@@ -349,7 +365,9 @@ Correlação Regressão Linear ANOVA Delineamento de Experimentos
 
 Com ênfase em interpretação, análise e comunicação de resultados estatísticos.
 
-Pesquisador — PASID/UFPI
+<br>
+
+<h3>Pesquisador — PASID/UFPI</h3>
 
 2022 – atual
 
@@ -373,19 +391,21 @@ experimentação.
 
 20+ publicações científicas Qualis A1/A2/A3/A4, incluindo trabalhos internacionais.
 
-Como eu trabalho
+<br>
+
+<h2>🧩 Como eu trabalho</h2>
 
 Meu maior interesse está em problemas onde a solução ainda não está completamente definida.
 
 Gosto de entender o contexto, investigar causas, estruturar alternativas e então decidir quais mecanismos técnicos fazem sentido.
 
 <p align="center">
-  <strong>
-    Entender → Diagnosticar → Arquitetar → Construir → Medir → Melhorar
-  </strong>
+  <strong>Entender → Diagnosticar → Arquitetar → Construir → Medir → Melhorar</strong>
 </p>
 
 Meu objetivo é desenvolver soluções que não terminem no código, mas produzam melhoria operacional, informação para decisão e impacto mensurável.
+
+<br>
 
 <p align="center">
   <strong>Analista de Automação & Inteligência de Processos</strong>
