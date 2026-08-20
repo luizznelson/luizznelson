@@ -8,7 +8,7 @@
 
 <p align="center">
   Diagnostico problemas operacionais e construo soluções com dados, automação e IA<br>
-  para tornar processos mais eficientes, mensuráveis e inteligentes.
+  para tornar processos mais eficientes, mensuráveis e apoiar melhores decisões.
 </p>
 
 <p align="center">
@@ -20,6 +20,9 @@
   </a>
   <a href="https://luiz-nelson-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-Web-181717?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://lattes.cnpq.br/5364408458073148">
+    <img src="https://img.shields.io/badge/Currículo-Lattes-005CA9?style=flat-square" alt="Currículo Lattes">
   </a>
 </p>
 
@@ -131,14 +134,14 @@ avaliação de respostas;
 
 Machine Learning aplicado.
 
-Busco combinar regras determinísticas e IA de acordo com o problema, evitando aplicar modelos onde uma solução convencional é mais simples, previsível ou segura.
+Combino regras e IA conforme a necessidade do problema, evitando usar modelos quando uma solução mais simples é suficiente.
 
 <br>
 
 <h2>🚀 Projetos em destaque</h2>
 
 <p>
-  Dois projetos de portfólio construídos para demonstrar a resolução de problemas de ponta a ponta — do diagnóstico e engenharia dos dados até analytics, interface e operação.
+  Dois projetos de portfólio que mostram a resolução de problemas de ponta a ponta — do diagnóstico e preparação dos dados até a análise, a interface e a operação.
 </p>
 
 <br>
@@ -160,7 +163,7 @@ Busco combinar regras determinísticas e IA de acordo com o problema, evitando a
 
 Problema
 
-Substituir o monitoramento manual de concorrentes por uma rotina estruturada, rastreável e orientada por dados, capaz de indicar quais produtos e fontes apresentam sinais competitivos que merecem investigação.
+Substituir o monitoramento manual de concorrentes por uma rotina estruturada e rastreável, capaz de mostrar quais produtos e concorrentes apresentam diferenças que realmente merecem atenção.
 
 Solução
 
@@ -186,7 +189,7 @@ distinção entre falha de coleta, indisponibilidade e oferta disponível;
 
 histórico real de preço e disponibilidade;
 
-analytics determinístico para preço, mediana, dispersão, disponibilidade e movimentos;
+cálculos de preço, mediana, diferença entre ofertas, disponibilidade e mudanças;
 
 dashboard executivo em Streamlit;
 
@@ -198,7 +201,7 @@ snapshot SQLite real para demonstração pública somente leitura;
 
 testes automatizados com Pytest e ambiente Docker.
 
-Decisão de arquitetura: o LLM não calcula preços, disponibilidade ou dispersão. Esses indicadores são calculados deterministicamente e a IA atua como camada de investigação e síntese.
+Decisão de arquitetura: a IA não calcula preços ou disponibilidade. Esses valores são calculados pelo próprio sistema; a IA consulta os resultados e ajuda na análise.
 
 Stack
 
@@ -261,7 +264,7 @@ testes automatizados com Pytest;
 
 containerização com Docker.
 
-Decisão de arquitetura: a transformação utiliza o ciclo operacional como denominador comum, evitando inventar uma frequência artificial para tornar sensores heterogêneos comparáveis.
+Decisão de arquitetura: o ciclo de 60 segundos é usado como referência comum para comparar sensores que trabalham em frequências diferentes.
 
 Stack
 
@@ -389,21 +392,19 @@ modelagem analítica;
 
 experimentação.
 
-20+ publicações científicas Qualis A1/A2/A3/A4, incluindo trabalhos internacionais.
+20+ publicações científicas, incluindo trabalhos em periódicos classificados nos estratos A1, A2, A3 e A4 do Qualis e trabalhos internacionais.
 
 <br>
 
 <h2>🧩 Como eu trabalho</h2>
 
-Meu maior interesse está em problemas onde a solução ainda não está completamente definida.
-
-Gosto de entender o contexto, investigar causas, estruturar alternativas e então decidir quais mecanismos técnicos fazem sentido.
+Parto do problema, entendo o processo e os dados disponíveis, avalio as alternativas e só então escolho as ferramentas.
 
 <p align="center">
-  <strong>Entender → Diagnosticar → Arquitetar → Construir → Medir → Melhorar</strong>
+  <strong>Entender → Diagnosticar → Construir → Medir → Melhorar</strong>
 </p>
 
-Meu objetivo é desenvolver soluções que não terminem no código, mas produzam melhoria operacional, informação para decisão e impacto mensurável.
+Busco soluções que tragam ganho operacional, informação útil para decisão e resultados que possam ser acompanhados.
 
 <br>
 
@@ -418,7 +419,9 @@ Meu objetivo é desenvolver soluções que não terminem no código, mas produza
 <p align="center">
   <a href="https://www.linkedin.com/in/luiznelson">LinkedIn</a>
   ·
-  <a href="https://luizznelson.github.io">Portfólio</a>
+  <a href="https://luiz-nelson-portfolio.vercel.app/">Portfólio</a>
+  ·
+  <a href="https://lattes.cnpq.br/5364408458073148">Lattes</a>
   ·
   <a href="mailto:luizznelsonpro@gmail.com">Email</a>
 </p>
