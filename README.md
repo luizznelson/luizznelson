@@ -18,8 +18,8 @@
   <a href="mailto:luizznelsonpro@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://luizznelson.github.io">
-    <img src="https://img.shields.io/badge/Portfólio-Web-181717?style=flat-square&logo=github&logoColor=white" alt="Portfólio">
+  <a href="https://luiz-nelson-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-Web-181717?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
 </p>
 
