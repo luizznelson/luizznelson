@@ -37,11 +37,12 @@ Os resultados vêm de conjuntos de desenvolvimento, sem teste independente. Cada
 
 ## 🎓 Experiência e formação
 
-- **Pesquisador, Projeto Smart Flow** (EQT Lab / Grupo Equatorial): dependabilidade de sistemas de armazenamento de energia · 2026 – atual
-- **Analista de Inovação e Inteligência, VirteX Telecom:** automações de auditoria com Python e Gemini, integrações REST, SQL e Power BI · 2025 – 2026
-- **Pesquisador, PASID/UFPI:** sistemas distribuídos, IoT e avaliação de desempenho · 2022 – 2026
-- **Mestrado em Ciência da Computação**, UFPI · 2026 – 2027 (previsão)
-- **Bacharelado em Sistemas de Informação**, UFPI · 2020 – 2026
+- **Pesquisador, Projeto Smart Flow** (EQT Lab / Grupo Equatorial): modelagem de dependabilidade de sistemas de armazenamento de energia, em fase inicial · out/2026 – atual
+- **Analista de Inovação e Inteligência, VirteX Telecom:** automação de auditoria com Python e Gemini (conferência de protocolo de cerca de 12 min para 1, em cerca de 3.000 por mês), integrações REST, SQL e Power BI · jun/2025 – jun/2026
+- **Pesquisador, PASID/UFPI:** sistemas distribuídos, IoT e avaliação de desempenho. Coautor de 25 trabalhos (14 em periódicos e 11 em congressos), com Best Paper (2º lugar) no WCAMA 2025 · mai/2022 – atual
+- **Estágio em Docência, UFPI:** Estatística · fev – jun/2026
+- **Mestrado em Ciência da Computação**, UFPI · aluno especial em 2025, aluno regular desde 2026 (previsão 2027)
+- **Bacharelado em Sistemas de Informação**, UFPI · mar/2020 – fev/2026
 
 <details>
 <summary><b>🇬🇧 English summary</b></summary>
